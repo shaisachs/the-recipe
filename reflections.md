@@ -25,3 +25,5 @@ Somewhat relatedly, I'm not entirely certain how this abstract exchange of ideas
 I might, I hope, find some time to revisit this story with fresh eyes at some point soon. Actually I have thought of adding some kind of motif of reflection into the text - it blends well with the theme of imitation and repetition. As a somewhat more pedestrian exercise, I might think to sharpen the conflict between Augusta and Mathi, since it seems to escalate rather abruptly in my view. I think the narrative would hold to gether much more nicely with that approach.
 
 I'm certainly not a fan of including explanatory texts like this one as an appendix to my writing - the actual work should stand on its own, in my view - so you may take or leave this reflection as you see fit. I view it as something of a patch around the holes and missing pieces in the original story. However that may be, I hope the whole thing is enjoyable, and perhaps even thought-provoking.
+
+-Shai Sachs, November 2020
