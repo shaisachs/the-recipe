@@ -18,7 +18,7 @@ Well, I wish you all the best with this inane recipe hunt of yours. You could do
 
 Yours in poetic license.
 
-- A
+-A
 
 ---
 
@@ -30,7 +30,7 @@ Might I apologize with a shorter letter, and a shorter recipe?
 
 With brevity,
 
-- M
+-M
 
 ---
 
@@ -38,7 +38,7 @@ My dear Mathi,
 
 That's better.
 
-- A
+-A
 
 ---
 
@@ -56,7 +56,7 @@ You could say that the recipe decides, as it were, whether the finished product 
 
 Yours with snobbery,
 
-- M
+-M
 
 ---
 
@@ -74,7 +74,7 @@ Despite your thoughtlessness I did get a chance to dig through some of Grandma's
 
 Yours with motherly pride,
 
-- A
+-A
 
 ---
 
@@ -106,7 +106,7 @@ Well, I gave it a shot, spending a Sunday afternoon puzzling through the rhythms
 
 Yours, with or without enough flour,
 
-- M
+-M
 
 ---
 
@@ -128,7 +128,7 @@ Nevertheless, I fed in that treacly little poem you called a recipe to see what 
 
 Quixotically,
 
-- A
+-A
 
 ---
 
@@ -152,7 +152,7 @@ I don't anticipate that this slapdash gizmo of mine would pass muster with the s
 
 Mechanically,
 
-- M
+-M
 
 ---
 
@@ -170,7 +170,7 @@ To conclude my report: no recipe cards found just yet, I'm sorry to say.
 
 With adulation,
 
-- A
+-A
 
 ---
 
@@ -191,7 +191,7 @@ Perhaps you've know what's coming - allow me to answer my own question as best I
 
 It's not very easy to find your way home. But if that's where you want to go, it's best to know your destination from the outset. I suppose I need to cool off, maybe we should both do so?
 
-- M
+-M
 
 ---
 
@@ -211,7 +211,7 @@ Sorry about the delay, and sorry to be the bearer of bad news! Hope this letter 
 
 Yours,
 
-- Augusta
+-Augusta
 
 ---
 
@@ -219,7 +219,7 @@ My dear Augusta,
 
 No need to apologize about the recipe. I can only imagine you've been busy; after all it's not as though this foolish matter is particularly urgent! Truth be told I had nearly forgotten about it altogether, at least until I received your last note.
 
-You may, however, apologize for something else.
+You may, however, apologize for something else: sending me a letter written entirely by Tippy, and not bothering to even attempt it yourself.
 
 What on earth could possess you to ask your robotic little typewriter to reply to me on your behalf? Do you suppose that I'd not notice, or that it wouldn't bother me? Were you simply too preoccupied - with what, precisely - to dash off a note to me? I am, to put it mildly, perplexed and hurt by the whole thing.
 
@@ -241,7 +241,7 @@ I'll leave you to make what you will of that idea. I'm going to give this recipe
 
 Yours with a sink full of dirty dishes,
 
-- M
+-M
 
 ---
 
@@ -249,23 +249,23 @@ Yours with a sink full of dirty dishes,
 
 It's quite nice to be done with this story, for the time being anyway; it's been bouncing around my head for the past couple of years.
 
-I've long been fascinated by the argument known as "[Lady Lovelace's Objection](https://plato.stanford.edu/entries/turing-test/#LadLovObj)" - which claims, roughly speaking, that computers are not capable of original thought, but are instead bound by the instructions given them by computers. This claim was given a title by Alan Turing, whose famous paper which gave rise to the Turing test ("Computing Machinery and Intelligence") argued against Lovelace's position. Alas, Countess Lovelace died nearly a century before Turing's paper, and never had the chance to respond to Turing's arguments.
+I've long been fascinated by the argument known as "[Lady Lovelace's Objection](https://plato.stanford.edu/entries/turing-test/#LadLovObj)." It claims, roughly speaking, that computers are not capable of original thought, but are instead bound by the instructions given them by people. This claim was given a title by Alan Turing, whose famous paper "Computing Machinery and Intelligence" gave rise to the Turing test while arguing against Lovelace's position. Alas, Countess Lovelace died nearly a century before Turing's paper, and never had the chance to respond to Turing's arguments.
 
 Hence the premise of my story: suppose that Lovelace and Turing had been contemporaries, and had had a chance to carry on a full-fledged debate on the nature of digital intelligence. What then?
 
 Originally I had hoped to make the whole thing rather didactic. My own view is that Turing was mistaken, and Lovelace essentially correct; indeed I would go further and argue that Lovelace is [correct by definition](https://shaisachs.github.io/2020/07/27/argument-from-tautology.html). 
 
-For some reason or another I decided to step back from the precipice of rather dry intellectual exchange, and transpose the story into an entirely different context. Lovelace (whose birth name was Augusta) and Turing (whose middle name was Mathison) become relations - whether siblings or cousins, I'm not entirely sure - reflecting on their inheritance from a loving if somewhat quirky set of grandparents. The whole thing becomes something of a jumble: instead of algorithms we have recipes, instead of a universal Turing machine, we have typewriters. The exchange of letters follows some of the parameters of the real-world debate between Lovelace and Turing, but loosely at best.
+For some reason or another I decided to step back from the precipice of rather dry intellectual exchange, and transpose the story into an entirely different context. Lovelace (whose birth name was Augusta) and Turing (whose middle name was Mathison) become relations - whether siblings or cousins, I'm not entirely sure - reflecting on their inheritance from a loving if somewhat quirky set of grandparents. The whole thing becomes something of a jumble: instead of algorithms we have recipes, instead of a universal Turing machine, we have typewriters and chefs. The exchange of letters follows some of the parameters of the real-world debate between Lovelace and Turing, but loosely at best.
 
-There is something magical, in my eyes, about the epistolary format. It is so sparse that it forces the reader to fill in the blanks; moreover it has so much room for musings and melancholy, which I find somewhat relaxing. Moreover it opens up the possibility of hidden structure that has the whiff of believability about it: I like the idea that Mathi includes a recipe, of some kind or another, in every letter he sends to Augusta (except the last), for instance. At the same time, as the author, there is a pronounced danger of digression, and boring the reader with extraneous letters.
+There is something magical, in my eyes, about the epistolary format. It is so sparse that it forces the reader to fill in the blanks; and it has so much room for musings and melancholy, which I find somewhat relaxing. Moreover it opens up the possibility of hidden structure that has the whiff of believability about it: I like the idea that Mathi includes a recipe, of some kind or another, in every letter he sends to Augusta (except the last), for instance. At the same time, as the author, there is a pronounced danger of digression, and boring the reader with extraneous exposition. Altogether, it's a good challenge.
 
-Moreover I knew I wanted to explore the genre I've called [techno-magical realism](https://shaisachs.github.io/2018/05/05/the-menu.html) a little more. Hence we have a magical typewriter, capable of sending emails, composing recipes, and even sifting through boxes of old junk. That was fun, although it wound up being something of a smaller piece of the story than I had originally imagined. Tippy does loom large in what you might call a dramatic re-enactment of the Turing test, which wound up working out about the way I thought it would. The epistolary format is quite a challenge, and the genre gives it something of an interesting inflection - so I was happy to try it out.
+Furthermore, I knew I wanted to explore the [techno-magical realism](https://shaisachs.github.io/2018/05/05/the-menu.html) genre a little more. Hence we have a magical typewriter, capable of sending emails, composing recipes, and even sifting through boxes of old junk. That was fun, although it wound up being something of a smaller piece of the story than I had originally imagined. Tippy does loom large in what you might call a dramatic re-enactment of the Turing test, which wound up working out about the way I thought it would. The epistolary format is quite a challenge, and the genre gives it an interesting flavor - so I was happy to try it out.
 
 Did I succeed? Not fully, no. This text is somewhat dry and repetitive, a little awkward, without a great deal of excitement or really any kind of action. I've done better; indeed perhaps I'll try to do better in a future revision. The didactic point which I had hoped to make gets, I think, rather convoluted and lost.
 
-At the same time, I certainly did succeed in rendering this idea into something which has some kind of concrete manifestation. I had given myself a goal of completing it, in roughly five thousand words, over the course of the month of November; I succeeded in that too. So there is certainly a good deal of satisfaction to go around.
+At the same time, I certainly did succeed in rendering this idea into some kind of concrete manifestation. I had given myself a goal of completing it, in roughly five thousand words, over the course of the month of November; I succeeded in that too. So there is a good deal of satisfaction to go around.
 
-There were some hidden surprises along the way. I had originally thought that there would be some form of adventure, perhaps even a compelling conflict, in the narrative - perhaps Mathi needs help keeping a restaurant afloat, something like that. Perhaps even Augusta loans him the magical Tippy for a time, and Mathi winds up trying to fool Augusta rather than the other way around. Maybe I might have tried something like that, but it simply did not suit me in the end. What came as a genuine surprise was the literary allusion to the Wizard of Oz; that simply was nowhere in my original plan. But then I found myself comparing Tippy to the Tin Man and it occurred to me: well, why not? The themes of nostalgia and imitation are all right there for the plucking, and I've always loved that story a great deal. It was kind of a fun diversion.
+There were some hidden surprises along the way. I had originally thought that there would be some form of adventure, perhaps even a compelling conflict, in the narrative - perhaps Mathi needs help keeping a restaurant afloat, something like that. Perhaps even Augusta loans him the magical Tippy for a time, and Mathi winds up trying to fool Augusta rather than the other way around. Maybe I might have tried something like that, but it simply did not suit me in the end. What came as a genuine surprise was the literary allusion to the Wizard of Oz; that was nowhere in my original plan. But then I found myself comparing Tippy to the Tin Man and it occurred to me: well, why not? The themes of nostalgia and imitation are all right there for the plucking, and I've always loved that story a great deal. It was kind of a fun diversion.
 
 Somewhat relatedly, I'm not entirely certain how this abstract exchange of ideas became a sentimental tale of nostalgia. I think it was always there in the premise of a shared inheritance, although it was not meant to take center stage. I have for a long time thought that home, as a literary motif, shares some really striking connections to Turing's notion of an "oracle machine" and its place in the arithmetic hierarchy. Exploring that in greater depth is a topic for another day, but I think the idea bled into this story and I suppose I'll let it stay.
 
