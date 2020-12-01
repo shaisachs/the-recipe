@@ -20,27 +20,21 @@ Yours in poetic license.
 
 -A
 
----
-
 My dear Augusta,
 
 Might I apologize with a shorter letter, and a shorter recipe?
 
-*Make something.*
+_Make something._
 
 With brevity,
 
 -M
-
----
 
 My dear Mathi,
 
 That's better.
 
 -A
-
----
 
 My dear Augusta,
 
@@ -58,8 +52,6 @@ Yours with snobbery,
 
 -M
 
----
-
 My Lord Snobberly,
 
 Have you considered, perhaps, that the recipe is not the only thing which goes into the plate of cookies? It's well and fine for a recipe to have "heart," but would Grandma have needed such a thing from a recipe? Come to think of it, do you think she consulted that blessed recipe even once? I never saw it; she probably tossed it in the rubbish bin long after she had committed it to memory. Probably she could have recited the whole thing in her sleep if called upon.
@@ -76,8 +68,6 @@ Yours with motherly pride,
 
 -A
 
----
-
 My dearest Augusta,
 
 Congratulations on your little one. Should I send toys? Binkies?
@@ -88,17 +78,19 @@ It's true, as you say, that a good chef can do wonders with even a mediocre reci
 
 I've taken to fishing around for recipes just any old place, in case one of them seems like it might be the ticket. Here and there I've found a specimen worth a test drive, believe it or not. Look at this lovely little piece:
 
-    A pinch here,
-    A scoop ashore,
-    A mix and a knead and a shove;
+```text
+A pinch here,
+A scoop ashore,
+A mix and a knead and a shove;
 
-    One egg, or four?
-    Softened butter, condensed cream?
-    Perhaps not enough flour, but a bit too many dreams?
+One egg, or four?
+Softened butter, condensed cream?
+Perhaps not enough flour, but a bit too many dreams?
 
-    Some warmth,
-    And some fire.
-    You'll know when they're done.
+Some warmth,
+And some fire.
+You'll know when they're done.
+```
 
 Do you know where I found it? An old Life magazine from the forties, published during the depths of the war. I wasn't even looking for it, just happened to notice it out of place in the library shelves and thumbed through. Now that's what I call a recipe! Not just the text itself, resplendent though it may be; the fact that it fell into my lap is another thing altogether. As the saying goes, the destination must be worthy of the journey, isn't that so? Or wasn't it Grandpa who used to say, if a thing doesn't have a story, you might as well forget it?
 
@@ -108,13 +100,11 @@ Yours, with or without enough flour,
 
 -M
 
----
-
 Mathi,
 
 Have you ever stopped to think that perhaps it's not recipes you're after, but memories? There's something very nostalgic, it seems to me, in this quest of yours which I could, with great generosity, describe as quixotic. Don't get me wrong, I miss her too; I miss them both. But isn't it just possible that the permanence and certainty you're searching for, is something as slippery and ephemeral as the scent of just-baked cookies?
 
-You may have set your hopes on these dusty old bins, and I'll concede there is an odd sort of tantalizing promise to them. All one hundred and fifty nine of them! The other day I dug into my first one - don't get your hopes up, it was a bunch of hats - and after a fit of sneezes I decided to take a break by counting the remainder. You would think that Grandma and Grandpa were preparing for some kind of grand jumble sale, the way they collected knick knacks. By day's end I had managed to unearth an entire second box, which is to say I sorted through all kinds of different porcelain figures, including the most adorable little lion, full of mane and long of tooth. He seems like such a bashful little fellow. Alas, not a recipe card of any sort in sight. 
+You may have set your hopes on these dusty old bins, and I'll concede there is an odd sort of tantalizing promise to them. All one hundred and fifty nine of them! The other day I dug into my first one - don't get your hopes up, it was a bunch of hats - and after a fit of sneezes I decided to take a break by counting the remainder. You would think that Grandma and Grandpa were preparing for some kind of grand jumble sale, the way they collected knick knacks. By day's end I had managed to unearth an entire second box, which is to say I sorted through all kinds of different porcelain figures, including the most adorable little lion, full of mane and long of tooth. He seems like such a bashful little fellow. Alas, not a recipe card of any sort in sight.
 
 It's funny what you say: Grandma was not fond of junk; but on the other hand, neither her nor Grandpa could bear to think of anything as junk, once it had stuck around long enough. Hence, once hundred and fifty nine boxes.
 
@@ -130,8 +120,6 @@ Quixotically,
 
 -A
 
----
-
 My dear wizard Augusta,
 
 Congratulations are in order on your newly-alive gizmo. I think? I hope you are enjoying her more than I enjoyed what you sent me! Tippy certainly sent me on something of a wild goose chase. I had to read all ten thousand words three or four times over to get even the first hint of what she was on about. Turn about is fair play, I suppose.
@@ -140,7 +128,7 @@ You are quite right to say that this recipe hunt is something of a fool's errand
 
 You have given me something of an idea for my next experiment in cookie-making, because you are right about ephemera. No matter how good the recipe, it is ultimately in the chef's hands, and many's the subtle and delicate recipe which has suffered the indignities of a simpleton who has no business in the kitchen. So what is to be done?
 
-Well, one can always simplify the recipe and rely on the special purpose gadgetry of the kitchen: melon ballers, pastry brushes, pizza stones, and the like. Take this idea to its logical conclusion, and you can devise a piece of machinery which will make the recipe as simple as the push of a button: *et voila*, the coffee maker is born.
+Well, one can always simplify the recipe and rely on the special purpose gadgetry of the kitchen: melon ballers, pastry brushes, pizza stones, and the like. Take this idea to its logical conclusion, and you can devise a piece of machinery which will make the recipe as simple as the push of a button: _et voila_, the coffee maker is born.
 
 You can imagine how far down this particular brick road I'm willing to travel.
 
@@ -148,13 +136,11 @@ What, really, does one need to do to make a perfect chocolate chip cookie? A cer
 
 These past few days have been something of a fever dream in my workshop, as I've set about making a prototype of my cookie making machine. It's a rather inelegant jumble of parts at the moment: a compartment for the wet and dry ingredients on the left; a mixing chamber with a hacked-off spatula in the middle; and a fine little oven welded onto the right. Crack some eggs, measure out some sugar, flip a switch - and fifteen minutes later you have a delicious platefull which smells, you might say, of home.
 
-I don't anticipate that this slapdash gizmo of mine would pass muster with the safety board any time soon, to say nothing of winning a culinary award. But ephemeral? No, I don't think so! If I had the wherewithal I could plunk one of these lovable mutts down on any countertop with enough space, and not a quarter-hour later you'd have prepared my (admittedly rather workaday) mechanical recipe, down to the last chocolate chip. Could Tippy hope to compete with that?
+I don't anticipate that this slapdash gizmo of mine would pass muster with the safety board any time soon, to say nothing of winning a culinary award. But ephemeral? No, I don't think so! If I had the wherewithal I could plunk one of these lovable mutts down on any countertop with enough space, and not a quarter-hour later you'd have prepared my \(admittedly rather workaday\) mechanical recipe, down to the last chocolate chip. Could Tippy hope to compete with that?
 
 Mechanically,
 
 -M
-
----
 
 It's not a competition, not even a reasonably fair comparison. You screw together a handful of kitchen appliances and that's your answer to my labor of love? For now, I'll give you the benefit of the doubt: without having seen Tippy in all her glory, you could certainly not appreciate just what a darling little genius she is.
 
@@ -172,8 +158,6 @@ With adulation,
 
 -A
 
----
-
 Not even a fair comparison? I am not sure how to respond to that. Perhaps that's my just deserts for bolting a handful of kitchen appliances together?
 
 You like to think you're so clever, with your polishing and your soldering and your welding. A very fine time it is, I'm sure! No doubt you've told yourself a hundred times that it's all just a funny little project, a hobby and an excuse to try out your workshop. Until, that is, it's too late, and you've discovered that it's not remotely like that, your cutesy little project has in fact taken hold of you. The tail wags the dog, you might say.
@@ -184,26 +168,26 @@ I at least can tell you with a straight face: yes, all of this obsession over a 
 
 Perhaps you've know what's coming - allow me to answer my own question as best I can:
 
-    Ruby slipper cookies
-    The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the touch of acid.
-    Ingredients: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
-    Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
+```text
+Ruby slipper cookies
+The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the touch of acid.
+Ingredients: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
+Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
+```
 
 It's not very easy to find your way home. But if that's where you want to go, it's best to know your destination from the outset. I suppose I need to cool off, maybe we should both do so?
 
 -M
 
----
-
 My dear Mathi,
 
 It took a year, but we finally made it through all the boxes. Never agree to take on the personal effects of a couple of self-proclaimed hoarders! My advice to you. In any case, my sad report: No recipe card to be found!
 
-Not strictly speaking, any way. It turns out there was something, after all, tucked into the folds of one of Grandma's many purses. (She had fifty-three, by my count. Distributed across boxes 5 and 6.) It's not exactly what I think you're looking for, but I'm pretty sure it's Grandma's recipe:
+Not strictly speaking, any way. It turns out there was something, after all, tucked into the folds of one of Grandma's many purses. \(She had fifty-three, by my count. Distributed across boxes 5 and 6.\) It's not exactly what I think you're looking for, but I'm pretty sure it's Grandma's recipe:
 
-Ingredients: 2 c Snuggle Inn(tm) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts (optional)
+Ingredients: 2 c Snuggle Inn\(tm\) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts \(optional\)
 
-Directions: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn(tm) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on countertop or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn(tm) Whole Milk.
+Directions: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn\(tm\) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on countertop or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn\(tm\) Whole Milk.
 
 As you may have guessed - it was snipped from the back of a bag of chocolate chips, probably decades ago. Maybe even a cutesy off-brand of chocolate chips! The text is a little faded and the plastic has yellowed a bit, but you couldn't possibly mistake the origins.
 
@@ -212,8 +196,6 @@ Sorry about the delay, and sorry to be the bearer of bad news! Hope this letter 
 Yours,
 
 -Augusta
-
----
 
 My dear Augusta,
 
@@ -242,3 +224,4 @@ I'll leave you to make what you will of that idea. I'm going to give this recipe
 Yours with a sink full of dirty dishes,
 
 -M
+
