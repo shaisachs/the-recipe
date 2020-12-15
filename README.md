@@ -174,22 +174,30 @@ With adulation,
 
 ---
 
-Not even a fair comparison? I am not sure how to respond to that. Perhaps that's my just deserts for bolting a handful of kitchen appliances together?
+My dear adulative Augusta,
 
-You like to think you're so clever, with your polishing and your soldering and your welding. A very fine time it is, I'm sure! No doubt you've told yourself a hundred times that it's all just a funny little project, a hobby and an excuse to try out your workshop. Until, that is, it's too late, and you've discovered that it's not remotely like that, your cutesy little project has in fact taken hold of you. The tail wags the dog, you might say.
+I'm sorry for the insult, it was certainly not intended. Especially considering the fine helper Tippy has become!
 
-You accuse me of nostalgia as though it's some shameful disease - or in fact as though it's mine alone. What have you been doing all this time, if not indulging your nostalgia for your own sake. At just the same time, lording it over me, as though you're far too clever for that kind of silliness?
+I suppose that when one has invested a great deal in something - whether it's a marvel of art and engineering or a slapdash assortment of kitchen junk, made primarily to prove a point - one can't help but see oneself in its surface. Below its surface, too.
 
-I at least can tell you with a straight face: yes, all of this obsession over a recipe is indeed one giant search for home. Not quite home, but the feeling of it. And isn't there something admirable about finding the feeling of home? Isn't that all the more admirable, if one can share that feeling with others? Others which, perhaps, one has not yet met, and perhaps never will? What, after all, is so bad about any of that? How, exactly, does it fail to compare to your mechanical experiment in narcissism? Are you really any better than some simple little man, pulling levers from behind a curtain?
+Perhaps that is why I don't invest quite so much in my recipes, whether of the written or the mechanical kind. I have quite enough ways of checking my appearance, thank you very much. The recipes that go through my kitchen are mere procedures to be followed, as much as one's competence may allow. Does it bother me when a particularly luscious recipe gets botched in the hands of a culinary malcontent? Certainly it does - but only because it's always such a travesty to think of good flour gone to waste. Who am I to romanticize a series of instructions?
+
+Funny thing to say, coming from someone who has spent a great deal of energy - and has asked you to do the same - in search of one particularly special set of instructions. Even as I'm writing these words I can imagine with perfect clarity the smirk on your face as you read them! That's only reasonable. It's all an elaborate nostalgic treasure hunt, I can't pretend otherwise. But it's never been about the recipe: rather, the experience of making those cookies one more time, the chance to whiff that intoxicating aroma of butter and chocolate and... might it have been a touch of applesauce? I'll have to try that.
+
+As I was saying: the recipe is not the goal, but merely the starting point. It contains no more of Grandma than Tippy contains of Grandpa, or of you for that matter. But the delightful anticipation that attends sliding a tray into the oven... ah, that's another matter. The recipe is really just a means to an end, a nice way to share that experience with someone else.
+
+Now, what of our Tippy, who you have compared to your own child? Even without having seen her it's quite clear that she's something else, I don't doubt that. Exactly because of that one might ask what it means for you to claim that she's a part of you. Is she not, in some way, greater than the sum of her parts, even however many smarts she borrowed from her creator? Suppose that she isn't, what does tha make you - some kind of simple little man, pulling levers from behind a curtain? And on the flip side, might you not think of everything else that preceded you in her creation. You spent a whole day hunting down a typewriter ribbon - is it possible that you didn't find what you were looking for, because your goal was really to discover Grandpa, somewhere in the aisles of all those fluorescent-lit office supply stores?
 
 Perhaps you've know what's coming - allow me to answer my own question as best I can:
 
-    Ruby slipper cookies
-    The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the touch of acid.
-    Ingredients: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
-    Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
+*Ruby slipper cookies*
 
-It's not very easy to find your way home. But if that's where you want to go, it's best to know your destination from the outset. I suppose I need to cool off, maybe we should both do so?
+_Ingredients_: The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the touch of acid.
+Ingredients: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
+
+_Directions_: Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
+
+It's not very easy to find your way home. But if that's where you want to go, it's best to know your destination from the outset.
 
 -M
 
@@ -201,9 +209,11 @@ It took a year, but we finally made it through all the boxes. Never agree to tak
 
 Not strictly speaking, any way. It turns out there was something, after all, tucked into the folds of one of Grandma's many purses. (She had fifty-three, by my count. Distributed across boxes 5 and 6.) It's not exactly what I think you're looking for, but I'm pretty sure it's Grandma's recipe:
 
-Ingredients: 2 c Snuggle Inn(tm) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts (optional)
+*Snuggle Inn(tm) Chocolate Chip Cookies*
 
-Directions: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn(tm) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on counter-top or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn(tm) Whole Milk.
+_Ingredients_: 2 c Snuggle Inn(tm) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts (optional)
+
+_Directions_: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn(tm) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on counter-top or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn(tm) Whole Milk.
 
 As you may have guessed - it was snipped from the back of a bag of chocolate chips, probably decades ago. Maybe even a cutesy off-brand of chocolate chips! The text is a little faded and the plastic has yellowed a bit, but you couldn't possibly mistake the origins.
 
@@ -211,21 +221,21 @@ Sorry about the delay, and sorry to be the bearer of bad news! Hope this letter 
 
 Yours,
 
--Augusta
+-A
 
 ---
 
 My dear Augusta,
 
-No need to apologize about the recipe. I can only imagine you've been busy; after all it's not as though this foolish matter is particularly urgent! Truth be told I had nearly forgotten about it altogether, at least until I received your last note.
+Or should I say Tippy?
 
-You may, however, apologize for something else: sending me a letter written entirely by Tippy, and not bothering to even attempt it yourself.
+It's not every day one corresponds directly with a typewriter, so I suppose I should enjoy the moment. Pleased to make your acquaintance, and thanks ever so much for all your help with the recipe, even if the outcome was not quite what I expected.
 
-What on earth could possess you to ask your robotic little typewriter to reply to me on your behalf? Do you suppose that I'd not notice, or that it wouldn't bother me? Were you simply too preoccupied - with what, precisely - to dash off a note to me? I am, to put it mildly, perplexed and hurt by the whole thing.
+Had you told me, a year ago, that you'd soon be sending me a thinly-veiled advertisement for Snuggle Inn(tm) chocolate chips, that would have been mildly interesting. But that a typewriter would be writing to me under cover of Augusta's name - well, that's another thing altogether! Bravo on a fine attempt.
 
-Nor do I think you tried to be particularly clever in your response. Since when do you sign off with your full name, and how difficult might it have been to prevent such an obvious tip-off?
+How, I wonder, did she train you to accomplish such an admirable - or, perhaps I should say, surprising - feat? Naturally I must assume that she's fed you our letters, every last one of them, the better to imitate them. Was that enough, I wonder? I suppose I'll never know, or in any case you'll never tell me.
 
-I have every confidence that you'll ignore this last note. Very well, that is your perfect right. Let me, then, tell you just what it is I have to say about this recipe.
+You - or would it be our beloved Augusta - may in turn ask: how did I figure it out? Well. Let's agree to keep our secrets, shall we?
 
 It is true, indeed undeniable, that Grandma's recipe is just another copy from the back-of-the-package. I'd struggle to imagine a more pedestrian, uninspired origin story for the cookies you and I both remember from that long-ago time.
 
