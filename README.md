@@ -90,17 +90,17 @@ It's true, as you say, that a good chef can do wonders with even a mediocre reci
 
 I've taken to fishing around for recipes just any old place, in case one of them seems like it might be the ticket. Here and there I've found a specimen worth a test drive, believe it or not. Look at this lovely little piece:
 
-    A pinch here,
-    A scoop ashore,
-    A mix and a knead and a shove;
-
-    One egg, or four?
-    Softened butter, condensed cream?
-    Perhaps not enough flour, but a bit too many dreams?
-
-    Some warmth,
-    And some fire.
-    You'll know when they're done.
+> A pinch here,
+> A scoop ashore,
+> A mix and a knead and a shove;
+>
+> One egg, or four?
+> Softened butter, condensed cream?
+> Perhaps not enough flour, but a bit too many dreams?
+>
+> Some warmth,
+> And some fire.
+> You'll know when they're done.
 
 Do you know where I found it? An old Life magazine from the forties, published during the depths of the war. I wasn't even looking for it, just happened to notice it out of place in the library shelves and thumbed through. Now that's what I call a recipe! Not just the text itself, resplendent though it may be; the fact that it fell into my lap is another thing altogether. As the saying goes, the destination must be worthy of the journey, isn't that so? Or wasn't it Grandpa who used to say, if a thing doesn't have a story, you might as well forget it?
 
@@ -233,7 +233,7 @@ Or should I say Tippy?
 
 It's not every day one corresponds directly with a typewriter, so I suppose I should enjoy the moment. Pleased to make your acquaintance, and thanks ever so much for all your help with the great search, even if the outcome was not quite what I expected.
 
-Had you told me, a year ago, that you'd soon be sending me a thinly-veiled advertisement for Snuggle Inn(tm) chocolate chips, that would have been mildly interesting. But that a typewriter would be writing to me under cover of Augusta's name - well, that's another thing altogether! Bravo on a fine attempt.
+Had you told me, a year ago, that I'd soon be receiving a thinly-veiled advertisement for Snuggle Inn(tm) chocolate chips, that would have been mildly interesting. But that a typewriter would be writing to me under cover of Augusta's name - well, that's another thing altogether! Bravo on a fine attempt.
 
 How, I wonder, did she train you to accomplish such an admirable - or, perhaps I should say, surprising - feat? Naturally I must assume that she's fed you our letters, every last one of them, the better to imitate them. Was that enough, I wonder? I suppose I'll never know, or in any case you'll never tell me.
 
@@ -241,15 +241,15 @@ You - or would it be our beloved Augusta - may in turn ask: how did I figure it 
 
 It is true, indeed undeniable, that Grandma's recipe is just another copy from the back-of-the-package. I'd struggle to imagine a more pedestrian, uninspired origin story for the cookies I remember from that long-ago time.
 
-So what then is there to say about them? They are as real to me as they are to you, I'm sure. Neither one of us remember them as uninspired, I think that's fair to say. How are we to make sense of this puzzle?
+So what then is there to say about them? They are as real to me as they are to Augusta. Neither one of us remember them as uninspired, I think that's fair to say. How are we to make sense of this riddle?
 
-All manner of possibilities present themselves. Perhaps this recipe is not the one Grandma used? It's the one we found, but perhaps that's just an awkward coincidence. There is no way to be sure, but at heart I think it unlikely; the recipe you found, uninteresting though it might be, must certainly be the one she used. Pack-rat that she was, would she have let a thing like that slip out of her hands? Doubtful.
+All manner of possibilities present themselves. Perhaps this recipe is not the one Grandma used? It's the one we found, but perhaps that's just an awkward coincidence. There is no way to be sure, but at heart I think it unlikely; the recipe you found, uninteresting though it might be, must certainly be the one she used. Pack-rat that she was, she would not have let a thing like that slip out of her hands.
 
-Or relatedly - perhaps she began with this recipe, but slowly amended it over the years, adding this ingredient and that spice, never bothering to write down these minor tweaks and twists? Again, I couldn't say with any certainty, but I must ask myself - is it likely? Neither Grandma nor Grandpa was the type to leave something unwritten. Especially not a much-ballyhooed recipe.
+Or relatedly - perhaps she began with this recipe, but slowly amended it over the years, adding this ingredient and that spice, never bothering to write down these minor tweaks and twists? Again, I couldn't say with any certainty, but I must ask myself - is it likely? Neither Grandma nor Grandpa was the type to leave something unwritten.
 
-Most sentimentally - perhaps we should conclude that after all you were right. It's not the recipe at all, but the skills of the chef who prepares it, which matters most in the final product? To put it another way, that perhaps what we remember is not so much the recipe, not even the cookies themselves, but perhaps something very essentially... Grandma-ish. If you were so inclined you might say that her cookies contained a piece of her soul, her heart. Or to draw the whole line of reasoning to its cliched conclusion: the secret ingredient was love. It all sounds very sweet, and in a way it is. But consider how horrible it is at the same time: if the secret ingredient was Grandma's love then what are the hopes for reviving this confection, this particular slice of my memory and yours? Is it, in fact, gone forever?
+Most sentimentally - perhaps we should conclude that after all, Augusta was right. It's not the recipe at all, but the skill of the chef who prepares it, which matters most in the final product? To put it another way, that perhaps what we remember is not so much the recipe, not even the cookies themselves, but perhaps something very essentially... Grandma-ish. If you were so inclined you might say that her cookies contained a piece of her soul, her heart. Or to draw the whole line of reasoning to its clichéd conclusion: the secret ingredient was love. It all sounds very sweet, and in a way it is. But consider how horrible it is at the same time: if the secret ingredient was Grandma's love then what are the hopes for reviving this confection, this particular slice of memory? Is it, in fact, gone forever?
 
-I'll leave you to sort that out. I'm going to give this recipe a try; some day you should drop by and see how it came out.
+I'll leave you, or I should say Augusta, to sort that out. I'm going to give this recipe a try; some day the two of you should drop by and see how it came out.
 
 Yours with a sink full of dirty dishes,
 
