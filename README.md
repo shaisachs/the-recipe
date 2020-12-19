@@ -249,7 +249,7 @@ Or relatedly - perhaps she began with this recipe, but slowly amended it over th
 
 Most sentimentally - perhaps we should conclude that after all you were right. It's not the recipe at all, but the skills of the chef who prepares it, which matters most in the final product? To put it another way, that perhaps what we remember is not so much the recipe, not even the cookies themselves, but perhaps something very essentially... Grandma-ish. If you were so inclined you might say that her cookies contained a piece of her soul, her heart. Or to draw the whole line of reasoning to its cliched conclusion: the secret ingredient was love. It all sounds very sweet, and in a way it is. But consider how horrible it is at the same time: if the secret ingredient was Grandma's love then what are the hopes for reviving this confection, this particular slice of my memory and yours? Is it, in fact, gone forever?
 
-I'll leave you to sot that out. I'm going to give this recipe a try; some day you should drop by and see how it came out.
+I'll leave you to sort that out. I'm going to give this recipe a try; some day you should drop by and see how it came out.
 
 Yours with a sink full of dirty dishes,
 
