@@ -8,11 +8,11 @@ Allow me to answer the question you couldn't deign to ask in all those pages: no
 
 We have spent a very productive, which is not to say adventurous, weekend over here. The "we" in question includes, of course, yours truly and her beloved typewriter. The poor dear spent decades shut up in a case on a shelf, collecting dust and drying up her ink the whole time. Such a fine specimen of machinery, to be relegated to uselessness like that. Grandpa forgot she existed, I would surmise, except that he left explicit instructions that I take good care of her. What kind of forgotten piece of scrap earns a prominent place in one's will? It's a proper mystery.
 
-So take good care of her I shall, and indeed I have done. I spent several blissful hours on Saturday taking her apart, striker by striker, wiping the cobwebs off of each and every one, administering lubricating oil as though she were the Tin Man. Several cups of coffee were dedicated to the pursuit, until the mechanical little love was back to her old tick-tock self, thudding characters onto the roller and dinging off the carriage returns merrily. In the afternoon I polished the chassis from top to bottom, even poking into the nooks behind the ribbon spools; until I could see myself in her dignified form. She is a marvel to behold, like the grand old ships of the line and weighing only a tiny bit less!
+So take good care of her I shall, and indeed I have done. I spent several blissful hours on Saturday taking her apart, striker by striker, wiping the cobwebs off of each and every one, administering lubricating oil as though she were the Tin Man. Several cups of coffee were dedicated to the pursuit, until the mechanical little love was back to her tick-tock self, thudding characters onto the roller and dinging off the carriage returns merrily. In the afternoon I polished the chassis from top to bottom, even poking into the nooks behind the ribbon spools; until I could see myself in her dignified form. She is a marvel to behold, like the grand old ships of the line and weighing only a tiny bit less!
 
-Yesterday I poked about town in search of a ribbon so that the old gal could finally talk again. Easier said than done, as you'd imagine. I dare you to look up typewriter supply stores in the phone book - it's difficult to say which is more of a relic! No matter, I hunted down every kind of stationary vendor I could find. I suppose there was some adventure after all, since I lugged my new pet around town in the pursuit. There she sat in the backseat, buckled in if you please, bouncing along as I managed to hit every single last pothole. You see, I thought it best to have her on hand for a ribbon fitting, if one were needed. How the world has changed since she last saw so much of it! She is like the Smith & Brothers Corporation's answer to Rip van Winkel, poor goose.
+Yesterday I poked about town in search of a ribbon so that my gal could finally talk again. Easier said than done, as you'd imagine. I dare you to look up typewriter supply stores in the phone book - it's difficult to say which is more of a relic! No matter, I hunted down every kind of stationary vendor I could find. I suppose there was some adventure after all, since I lugged my new pet around town in the pursuit. There she sat in the backseat, buckled in if you please, bouncing along as I managed to hit every single last pothole. You see, I thought it best to have her on hand for a ribbon fitting, if one were needed. How the world has changed since she last saw so much of it! She is like the Smith & Brothers Corporation's answer to Rip van Winkel, poor goose.
 
-In the event, she might have stayed at home - not one shred of ribbon was on offer, no matter how high nor low I should look. What a distressing turn of events. I might of course look farther afield, and perhaps I will. It's a manner of search a touch incongruous for the old girl, don't you think? More than that there is something charming about her present state - absolutely perfect in the mechanical sense, as sharp as the day she rolled off the assembly line; but mute and speechless as a tree stump because the world has passed her by. If I were the Poet Laureate herself I should not be able to invent such a lovely literary device, shouldn't I?
+In the event, she might have stayed at home - not one shred of ribbon was on offer, no matter how high nor low I should look. What a distressing turn of events. I might of course look farther afield, and perhaps I will. But then again perhaps I won't - doesn't it seem like rather a lot of effort? More than that, there is something charming about her present state - absolutely perfect in the mechanical sense, as sharp as the day she rolled off the assembly line; but mute and speechless as a tree stump because the world has passed her by. If I were the Poet Laureate herself I should not be able to invent such a lovely literary device.
 
 Well, I wish you all the best with this inane recipe hunt of yours. You could do worse than to inspect the package of a bag of chocolate chips, if you want to know the truth.
 
@@ -26,7 +26,7 @@ My dear Augusta,
 
 Might I apologize with a shorter letter, and a shorter recipe?
 
-*Make something.*
+> *Make something.*
 
 With brevity,
 
@@ -52,7 +52,7 @@ Allow me to try and imagine such a recipe. Without so much as a trip to the stor
 
 If you know what you're doing, then surely this recipe will guide you towards a recognizable plate of chocolate chip cookies. In less-experienced hands, the outcome would be a sorry and unappetizing mess! Even if I were to supply quantities, times, and temperatures, your hapless first-timer would stand little chance. The recipe lacks precision, but worse than that - it lacks heart. It doesn't say a thing about the warmth of the butter, the texture of the dough, the golden-brown color of the finished cookie. As a result, any number of combinations of ingredients might be said to be a product of a recipe - and very few of them would be inspiring or even edible. That grocery store recipe which you hold in such high esteem? It's been made a hundred thousand times in a hundred thousand homes, and not a single set of those cookies bears distinction from another. Who would bother with such a boring trifle?
 
-You could say that the recipe decides, as it were, whether the finished product is acceptable or not. If you begin with a recipe for chocolate chip cookies, and wind up with a grilled cheese sandwich... well then, shame on you, you failed the recipe. Even if you begin with a recipe for chocolate chip walnut cookies, and fail to include the walnuts - you've still failed. \(Your customers, tasting these walnutless delights, might still think of you as a great triumph; never mind that, *I* will happily call you a failure.\) The problem is that the workmanlike recipes like the one above, or the one on your bag of chocolate chips, are too forgiving. They don't discern between the mediocre cookies, the merely acceptable ones, and the sublime. Say what you will about Grandma, her cookies were reliably sublime; it's difficult to imagine how anything but her recipe could do the same.
+You could say that the recipe decides, as it were, whether the finished product is acceptable or not. If you begin with a recipe for chocolate chip cookies, and wind up with a grilled cheese sandwich... well then, shame on you, you failed the recipe. Even if you begin with a recipe for chocolate chip walnut cookies, and fail to include the walnuts - you've still failed. \(Your customers, tasting these walnut-less delights, might still think of you as a great triumph; never mind that, *I* will happily call you a failure.\) The problem is that the workmanlike recipes like the one above, or the one on your bag of chocolate chips, are too forgiving. They don't discern between the mediocre cookies, the merely acceptable ones, and the sublime. Say what you will about Grandma, her cookies were reliably sublime; it's difficult to imagine how anything but her recipe could do the same.
 
 Yours with snobbery,
 
@@ -70,7 +70,7 @@ My dear old typewriter is doing well, not that you've bothered to ask. In fact s
 
 More importantly: she's alive! In fact she's chugging merrily along right this minute. After quite the search I decided that a typewriter ribbon was a hopelessly lost cause, and decided to set my sights a little higher. Tippy's got a wifi connection! With some amount of rigging I managed to give her a screen, and jimmied in a networking adapter. Old gal is just as good as any laptop and as portable as any refrigerator. And you'd never know from the outside, either! The screws along the bottom of her carriage were a little worn, but a bit of elbow grease and a sharp screwdriver will do wonders in life. I popped them off and discovered plenty of space under the keys: the chip and some wires packed in under the roller. Marvelous piece of work if I do say so myself. And here she is, sending emails like a pro!
 
-Despite your thoughtlessness I did get a chance to dig through some of Grandma's old things - horribly musty old dresses for the most part. Not a recipe to be found, I'm afraid.
+Despite your thoughtlessness I did get a chance to dig through some of Grandma's things  - horribly musty old dresses for the most part. Not a recipe to be found, I'm afraid.
 
 Yours with motherly pride,
 
@@ -102,7 +102,7 @@ I've taken to fishing around for recipes just any old place, in case one of them
 > And some fire.
 > You'll know when they're done.
 
-Do you know where I found it? An old Life magazine from the forties, published during the depths of the war. I wasn't even looking for it, just happened to notice it out of place in the library shelves and thumbed through. Now that's what I call a recipe! Not just the text itself, resplendent though it may be; the fact that it fell into my lap is another thing altogether. As the saying goes, the destination must be worthy of the journey, isn't that so? Or wasn't it Grandpa who used to say, if a thing doesn't have a story, you might as well forget it?
+Do you know where I found it? A copy of Life magazine from the forties, published during the depths of the war. I wasn't even looking for it, just happened to notice it out of place in the library shelves and thumbed through. Now that's what I call a recipe! Not just the text itself, resplendent though it may be; the fact that it fell into my lap is another thing altogether. As the saying goes, the destination must be worthy of the journey, isn't that so? Or wasn't it Grandpa who used to say, if a thing doesn't have a story, you might as well forget it?
 
 Well, I gave it a shot, spending a Sunday afternoon puzzling through the rhythms and rhymes of the recipe. It was on something of a whim that I threw in a little cumin, because who knows? Maybe that was the idea after all. The finished product was quite all right if I may say so. Not Grandma's cookies, but quite all right.
 
@@ -120,7 +120,7 @@ You may have set your hopes on these dusty old bins, and I'll concede there is a
 
 It's funny what you say: Grandma was not fond of junk; but on the other hand, neither her nor Grandpa could bear to think of anything as junk, once it had stuck around long enough. Hence, seven hundred and fifty nine boxes.
 
-In less allergy-inducing news, I've continued tinkering with dear old Tippy, who does not seem to mind my soldering adventures in the slightest. I've rigged her out with some rather wonderful circuitry. She's now got a good deal of memory, a decent-sized hard drive, and to top it off, a stand-up microprocessor, which I bolted on to the bottom of the "Z" key just for good luck. On top of that, she's installed some top-notch thinking machinery, the latest little AI processing unit from Wizardry Microsystems. Yes, you have probably surmised: my fussy little typewriter is now a grown-up robot, capable of autocomplete and a great deal more. Quite a clever little thing for someone who was born with no brains!
+In less allergy-inducing news, I've continued tinkering with dear Tippy, who does not seem to mind my soldering adventures in the slightest. I've rigged her out with some rather wonderful circuitry. She's now got a good deal of memory, a decent-sized hard drive, and to top it off, a stand-up microprocessor, which I bolted on to the bottom of the "Z" key just for good luck. On top of that, she's installed some top-notch thinking machinery, the latest little AI processing unit from Wizardry Microsystems. Yes, you have probably surmised: my fussy little typewriter is now a grown-up robot, capable of auto-complete and a great deal more. Quite a clever little thing for someone who was born with no brains!
 
 The fashion these days is to try to have one's robot compose a story, and to measure the text against those of the greats. To prime the crank, as it were, one must feed in a certain corpus of text of one's choosing. That glorious little gadget from Wizardry Microsystems munches and crunches through the prompt, re-purposing it into something new and, one should hope, something interesting.
 
@@ -162,7 +162,7 @@ It's not a competition, not even a reasonably fair comparison. You screw togethe
 
 I've repaid your rudeness with a favor, because that's just the kind of munchkin I am. Tippy now has a set of mechanical arms and legs, courtesy of some welding equipment and no small number of rivets. Turns out I've got a taste for metal work, who knew? In any case I've enlisted her to your cause, and together we've plundered through Boxes 10 through 115! It was quite a dusty and unpleasant affair, but Tippy didn't seem to mind. I might've gone further if your note hadn't interrupted our progress. Now I find myself rather grumpy and too cross to continue spelunking.
 
-Nevertheless, may I submit my report. Untold editions of the Weekly Shopper; old theater programs; a little locket with pictures of you and I at the age of... ten, I think?; more suit-jackets than can possibly be healthy for a grown man; in one box, Tippy found Grandpa's medal for bravery in action. Splendid. Not just that she found it, but that she recognized its significance enough to set it aside! Marvelous old gal.
+Nevertheless, may I submit my report. Untold editions of the Weekly Shopper; old theater programs; a little locket with pictures of you and I at the age of... ten, I think?; more suit-jackets than can possibly be healthy for a grown man; in one box, Tippy found Grandpa's medal for bravery in action. Splendid. Not just that she found it, but that she recognized its significance enough to set it aside! Marvelously clever gal.
 
 These sort of smarts don't come pre-baked, you know: one has to train the microchips to learn the kinds of things we wish for them to learn. Out of the box, a Wizardry Microsystems processor is actually rather dumb, and it's really only good at doing the things one teaches it to do. In my odd moments I've been doing just that, giving Tippy instruction in this thing or that, whatever strikes my fancy on that particular day. Where did she learn to recognize this particular piece of distinctive hardware? I haven't the faintest clue. She did take some history lessons the other day, but really I couldn't explain it if I tried. As I said: comparing her to a counter-top gadget is rather absurd.
 
@@ -188,16 +188,16 @@ Funny thing to say, coming from someone who has spent a great deal of energy - a
 
 As I was saying: the recipe is not the goal, but merely the starting point. It contains no more of Grandma than Tippy contains of Grandpa, or of you for that matter. But the delightful anticipation that attends sliding a tray into the oven... ah, that's another matter. The recipe is really just a means to an end, a nice way to share that experience with someone else.
 
-Now, what of our Tippy, who you have compared to your own child? Even without having seen her it's quite clear that she's something else, I don't doubt that. Exactly because of that, one might ask what it means for you to claim that she's a part of you. Is she not, in some way, greater than the sum of her parts, even however many smarts she borrowed from her creator? Suppose that she isn't, what does tha make you - some kind of simple little man, pulling levers from behind a curtain? And on the flip side, might you not think of everything else that preceded you in her creation> You spent a whole day hunting down a typewriter ribbon - is it possible that you didn't find what you were looking for, because your goal was really to discover Grandpa, somewhere in the aisles of all those fluorescent-lit office supply stores?
+Now, what of our Tippy, who you have compared to your own child? Even without having seen her it's quite clear that she's something else, I don't doubt that. Exactly because of that, one might ask what it means for you to claim that she's a part of you. Is she not, in some way, greater than the sum of her parts, even however many smarts she borrowed from her creator? Suppose that she isn't, what does that make you - some kind of simple little man, pulling levers from behind a curtain? And on the flip side, might you not think of everything else that preceded you in her creation> You spent a whole day hunting down a typewriter ribbon - is it possible that you didn't find what you were looking for, because your goal was really to discover Grandpa, somewhere in the aisles of all those fluorescent-lit office supply stores?
 
 Perhaps you've know what's coming - allow me to answer my own question as best I can, with a recipe:
 
-*Ruby slipper cookies*
-
-_Ingredients_: The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the hint of acid.
-Ingredients: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
-
-_Directions_: Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
+> Ruby slipper cookies 
+>
+> The secret to this recipe is to shred up the peels of an apple - the redder, the better. The shreds go into the dough and the rest is more or less as you'd expect. On top of the beautiful gold-and-ruby hue of the finished product, a touch of vitamin C will survive the oven! Extra butter and brown sugar compensate for the hint of acid.
+> _Ingredients_: apple peel, shredded; flour, baking soda, butter, sugar, brown sugar vanilla, eggs, chocolate chips; more butter; more brown sugar; still more butter. More chocolate chips, just in case.
+>
+> _Directions_: Combine the ingredients as you normally would; the shredded apple peel belongs with the eggs and vanilla; bake until finished. Eat in multiples of three.
 
 It's not very easy to find your way home. But if that's where you want to go, it's best to know your destination from the outset.
 
@@ -211,11 +211,11 @@ It took a year, but we finally made it through all the boxes. Never agree to tak
 
 Not strictly speaking, any way. It turns out there was something, after all, tucked into the folds of one of Grandma's many purses. (She had two hundred and sixty-three, by my count. Distributed across boxes 5 and 6.) It's not exactly what I think you're looking for, but I'm pretty sure it's Grandma's recipe:
 
-*Snuggle Inn(tm) Chocolate Chip Cookies*
-
-_Ingredients_: 2 c Snuggle Inn(tm) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts (optional)
-
-_Directions_: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn(tm) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on counter-top or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn(tm) Whole Milk.
+> Snuggle Inn(tm) Chocolate Chip Cookies
+> 
+> _Ingredients_: 2 c Snuggle Inn(tm) Chocolate Chip Delights; 1 c butter, 3/4 c sugar, 3/4 c brown sugar, 1 tsp vanilla, 2 eggs, 2-1/4 c flour, 1 tsp baking soda, 1 tsp salt, 1 c chopped walnuts (optional)
+> 
+> _Directions_: 1. Preheat oven to 375 degrees F. Leave butter out to soften. 2. Combine dry ingredients in small bowl. After butter has softened, mix it, together with sugars and vanilla, in a large bowl. Beat well until smooth. 3. Add eggs, beating well after each addition. 4. Fold in dry ingredients, mixing well until you do so. The result should be a thick, even dough. Flatten out any lumps. 5. Stir in Snuggle Inn(tm) Chocolate Chips and walnuts. Scoop with tablespoon onto ungreased baking sheets. 6. Bake for 10 minutes. Cool on counter-top or wire racks for thirty minutes to cool completely. Enjoy with a glass of Snuggle Inn(tm) Whole Milk.
 
 As you may have guessed - it was snipped from the back of a bag of chocolate chips, probably decades ago. Maybe even a cutesy off-brand of chocolate chips! The text is a little faded and the plastic has yellowed a bit, but you couldn't possibly mistake the provenance.
 
